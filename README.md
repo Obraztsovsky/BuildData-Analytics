@@ -14,7 +14,7 @@
 
 `git clone https://github.com/yourusername/construction-industry-analysis.git`
 
-3. Последовательно выполнить следующие ноутбуки:
+2. Последовательно выполнить следующие ноутбуки:
 
    - `links_parser.ipynb`
    - `data_parser.ipynb`
