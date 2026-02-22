@@ -14,12 +14,12 @@
 
 `git clone https://github.com/yourusername/construction-industry-analysis.git`
 
-3. Последовательно запутить следующие файлы:
+3. Последовательно выполнить следующие ноутбуки:
 
-   - links_parser.ipynb
-   - data_parser.ipynb
-   - etl+calculations.ipynb
-   - maps_and_graphics.ipynb
+   - `links_parser.ipynb`
+   - `data_parser.ipynb`
+   - `etl+calculations.ipynb`
+   - `maps_and_graphics.ipynb`
 
 Все полученные в результате парсинга данные будут храниться в папке `/data/`, а все полученные графики в `/graphics/`.
 
