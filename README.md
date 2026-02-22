@@ -60,9 +60,13 @@
 ### Стек технологий
 
 Сбор данных: selenium, pandas
+
 Анализ: numpy
+
 Визуализация: matplotlib, seaborn
+
 Инфраструктура: jupyter, git
+
 
 ### Автор
 
